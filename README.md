@@ -5,8 +5,8 @@
 - 🌱 I’m currently learning Full Stack Development
 
   Skills
-  ![image](https://github.com/KabiththananParan/KabiththananParan/assets/155905080/1f6f0725-642b-4a2f-abf4-594df6a7668d)
-  ![image](https://github.com/KabiththananParan/KabiththananParan/assets/155905080/a8afbbab-2061-4bee-bd19-f62a2b0057f9)
+  -![image](https://github.com/KabiththananParan/KabiththananParan/assets/155905080/1f6f0725-642b-4a2f-abf4-594df6a7668d)
+  -![image](https://github.com/KabiththananParan/KabiththananParan/assets/155905080/a8afbbab-2061-4bee-bd19-f62a2b0057f9)
 
 
 <!---
