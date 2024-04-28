@@ -10,8 +10,8 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/paran_kabi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="paran_kabi22" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/paran kabiththanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paran kabiththanan" height="30" width="40" /></a>
-<a href="https://fb.com/paran kabiththanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paran kabiththanan" height="30" width="40" /></a>
+<a href="www.linkedin.com/in/paran-kabiththanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="paran kabiththanan" height="30" width="40" /></a>
+<a href="https://www.secure.facebook.com/people/Paran-Kabiththanan/pfbid02Nh7tbG26nFyc9RQWrJFYZG79m87Z1ZtU6CXv79688k5CpFhs5UsQpfYbeHBEUWkdl/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="paran kabiththanan" height="30" width="40" /></a>
 <a href="https://instagram.com/paran_kabi22" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="paran_kabi22" height="30" width="40" /></a>
 </p>
 
