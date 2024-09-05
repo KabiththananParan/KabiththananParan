@@ -73,6 +73,6 @@
   <img src="https://streak-stats.demolab.com?user=KabiththananParan&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabiththananparan&" alt="kabiththananparan" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabiththananparan&show_icons=true&locale=en" alt="kabiththananparan" /></p>
 
 ###
