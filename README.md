@@ -78,3 +78,11 @@
 <img src="https://raw.githubusercontent.com/KabiththananParan/KabiththananParan/output/snake.svg" alt="Snake animation" />
 
 ###
+
+<div align="center">
+  <a href="https://open.spotify.com/user/![Alt text](https://spotify-recently-played-readme.vercel.app/api?user=31ty2ndfucccrffgj2mepxfcc6su&width={width})">
+    <img src="https://spotify-recently-played-readme.vercel.app/api?user=!%5BAlt%20text%5D(https://spotify-recently-played-readme.vercel.app/api?user=31ty2ndfucccrffgj2mepxfcc6su&width=%7Bwidth%7D)&count=1&unique=false" alt="Spotify recently played"  />
+  </a>
+</div>
+
+###
