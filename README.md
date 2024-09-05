@@ -20,3 +20,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabiththananparan&show_icons=true&theme=dark&locale=en" alt="kabiththananparan" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabiththananparan&theme=dark" alt="kabiththananparan" /></p>
+
+
+[![roadmap.sh](https://roadmap.sh/card/tall/65490eae4352f418f8269212?variant=dark)](https://roadmap.sh)
