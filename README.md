@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Paran Kabiththanan</h1>
 <h3 align="center">A passionate Programmer from SriLanka</h3>
 
-- 🌱 I’m currently learning **MERN Stack Development**
+- 🌱 I’m currently learning **Data Science**
 
 - 📫 How to reach me **kabiththananparan@gmail.com**
 
