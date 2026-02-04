@@ -24,19 +24,4 @@ Building real-world projects while learning through experimentation.
 
 ---
 
-## 🔬 Current Focus
-AI & ML Projects | Data Science with Python | Hackathon MVPs | Full-Stack Python & MERN  
-
----
-
-## 📈 Learning Goals
-Advanced ML/DL | Full-Stack Python | Portfolio Development  
-
----
-
-## 📫 Connect
-[GitHub](https://github.com/KabiththananParan)  
-
----
-
 ⚡ *I learn best by building projects instead of tutorials. Experimentation is key!*  
