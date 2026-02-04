@@ -1,22 +1,83 @@
-<h1 align="center">Hi 👋, I'm Paran Kabiththanan</h1>
-<h3 align="center">A passionate Programmer from SriLanka</h3>
+# 👋 Hi, I'm Paran Kabiththanan
 
-- 🌱 I’m currently learning **Data Science**
+💻 IT Undergraduate | 🤖 AI & Data Science Enthusiast | 🚀 Full-Stack Developer
 
-- 📫 How to reach me **kabiththananparan@gmail.com**
+I love building real-world tech solutions while learning through projects.  
+My current focus is **AI, Data Science, Full-Stack Development, and develop Projects**.
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/parankabiththanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="parankabiththanan" height="30" width="40" /></a>
-<a href="https://twitter.com/kabiththanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="kabiththanan" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://linkedin.com/in/paran-kabiththanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://linkedin.com/in/paran-kabiththanan" height="30" width="40" /></a>
-<a href="https://kaggle.com/kabiththanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="kabiththanan" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/parankabiththanan" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="parankabiththanan" height="30" width="40" /></a>
-</p>
+---
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg" alt="seaborn" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>
+## 🚀 About Me
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=kabiththananparan&show_icons=true&theme=dark&locale=en" alt="kabiththananparan" /></p>
+- 🎓 BSc (Hons) in Information Technology (Data Science Specialization) - Year 3
+- 🧠 Interested in AI, Machine Learning, Data Science & Deep Learning
+- 🌐 Full-stack development using modern web technologies
+- 🏆 Active Hackathon Participant & Project Builder
+- 🐧 Linux (Ubuntu) User
+- 📚 Prefer learning through Project-Based Learning (PBL)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=kabiththananparan&theme=dark" alt="kabiththananparan" /></p>
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Programming Languages
+- Python
+- JavaScript
+- Java
+- C / C++
+- PHP
+
+### 🌐 Web Development
+- React.js
+- Node.js
+- Express.js
+- HTML5
+- CSS3
+- JSP & Servlets
+- StreamLit
+
+### 🗄️ Databases
+- MySQL
+- SQL
+- MongoDB
+
+### ⚙️ Tools & Platforms
+- Git & GitHub
+- Linux / Ubuntu
+- VS Code
+
+---
+
+## 🔬 Current Focus
+
+- 🤖 AI & Machine Learning Projects
+- 📊 Data Science with Python
+- 🧠 Research-Oriented Development
+- ⚡ Hackathon MVP Development
+- 🧩 Full-Stack Python & MERN Projects
+
+
+---
+
+## 📈 Learning Goals
+
+- Advanced Machine Learning & Deep Learning
+- Full-Stack Python Development
+- Building Portfolio 
+
+---
+
+## 📫 Connect With Me
+
+- 💻 GitHub: https://github.com/KabiththananParan
+
+---
+
+## ⚡ Fun Fact
+
+I learn best by building real projects instead of following tutorials —  
+so most of my learning happens through experimentation and challenges 🚀
+
+---
+
+⭐ *Feel free to explore my repositories and collaborate on interesting ideas!*
