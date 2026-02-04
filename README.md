@@ -1,83 +1,42 @@
 # 👋 Hi, I'm Paran Kabiththanan
 
-💻 IT Undergraduate | 🤖 AI & Data Science Enthusiast | 🚀 Full-Stack Developer
+💻 IT Undergraduate | 🤖 AI & Data Science Enthusiast | 🚀 Full-Stack Developer  
 
-I love building real-world tech solutions while learning through projects.  
-My current focus is **AI, Data Science, Full-Stack Development, and develop Projects**.
+Building real-world projects while learning through experimentation.
 
 ---
 
 ## 🚀 About Me
-
-- 🎓 BSc (Hons) in Information Technology (Data Science Specialization) - Year 3
-- 🧠 Interested in AI, Machine Learning, Data Science & Deep Learning
-- 🌐 Full-stack development using modern web technologies
-- 🏆 Active Hackathon Participant & Project Builder
-- 🐧 Linux (Ubuntu) User
-- 📚 Prefer learning through Project-Based Learning (PBL)
+- 🎓 BSc (Hons) IT (Data Science Specialization)) - Year 3  
+- 🧠 Interested in AI, ML, Data Science & Deep Learning  
+- 🌐 Full-stack development (React, Node.js, MERN)  
+- 🏆 Hackathon Participant & Project Builder  
+- 🐧 Linux (Ubuntu) User  
+- 📚 Project-Based Learning (PBL) Enthusiast  
 
 ---
 
 ## 🛠️ Tech Stack
-
-### 💻 Programming Languages
-- Python
-- JavaScript
-- Java
-- C / C++
-- PHP
-
-### 🌐 Web Development
-- React.js
-- Node.js
-- Express.js
-- HTML5
-- CSS3
-- JSP & Servlets
-- StreamLit
-
-### 🗄️ Databases
-- MySQL
-- SQL
-- MongoDB
-
-### ⚙️ Tools & Platforms
-- Git & GitHub
-- Linux / Ubuntu
-- VS Code
+**Languages:** Python, JavaScript, Java, C/C++, PHP  
+**Web:** React.js, Node.js, Express.js, HTML, CSS, JSP, Streamlit  
+**Databases:** MySQL, MongoDB, SQL  
+**Tools:** Git, GitHub, VS Code, Linux  
 
 ---
 
 ## 🔬 Current Focus
-
-- 🤖 AI & Machine Learning Projects
-- 📊 Data Science with Python
-- 🧠 Research-Oriented Development
-- ⚡ Hackathon MVP Development
-- 🧩 Full-Stack Python & MERN Projects
-
+AI & ML Projects | Data Science with Python | Hackathon MVPs | Full-Stack Python & MERN  
 
 ---
 
 ## 📈 Learning Goals
-
-- Advanced Machine Learning & Deep Learning
-- Full-Stack Python Development
-- Building Portfolio 
+Advanced ML/DL | Full-Stack Python | Portfolio Development  
 
 ---
 
-## 📫 Connect With Me
-
-- 💻 GitHub: https://github.com/KabiththananParan
-
----
-
-## ⚡ Fun Fact
-
-I learn best by building real projects instead of following tutorials —  
-so most of my learning happens through experimentation and challenges 🚀
+## 📫 Connect
+[GitHub](https://github.com/KabiththananParan)  
 
 ---
 
-⭐ *Feel free to explore my repositories and collaborate on interesting ideas!*
+⚡ *I learn best by building projects instead of tutorials. Experimentation is key!*  
