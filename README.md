@@ -17,8 +17,8 @@ Building real-world projects while learning through experimentation.
 ---
 
 ## 🛠️ Tech Stack
-**Languages:** Python, JavaScript, Java, C/C++, PHP, MATLAB
-**Web:** React.js, Node.js, Express.js, HTML, CSS, JSP, Streamlit  
+**Languages:** Python, JavaScript, Java, C/C++, PHP, MATLAB    
+**Web:** React.js, Node.js, Express.js, HTML, CSS, JSP, Streamlit   
 **Databases:** MySQL, MongoDB, SQL, ORACLE DB
 **Tools:** Git, GitHub, VS Code, Linux, DOCKER  
 
