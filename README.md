@@ -1,13 +1,8 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=12&height=200&section=header&text=Paran%20Kabiththanan&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=IT%20Undergraduate%20%7C%20AI%20%26%20Data%20Science%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18" width="100%"/>
-
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+real-world+projects+%F0%9F%9A%80;Learning+through+experimentation+%E2%9A%A1;AI+%2B+Data+Science+%2B+Full-Stack+Dev+%F0%9F%92%BB" />
 
 <br/>
-
-<img src="https://komarev.com/ghpvc/?username=KabiththananParan&color=7AA2F7&style=for-the-badge&label=PROFILE+VIEWS"/>
-<img src="https://img.shields.io/github/followers/KabiththananParan?label=Followers&style=for-the-badge&color=7AA2F7"/>
 
 </div>
 
@@ -76,15 +71,6 @@
 
 </div>
 
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=KabiththananParan&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
 
 ---
 
@@ -93,9 +79,8 @@
 <div align="center">
 
 <!-- Replace the # below with your actual profile links -->
-<a href="#"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
-<a href="#"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/paran-kabiththanan/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://parankabiththanan.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-7AA2F7?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
 
 </div>
 
