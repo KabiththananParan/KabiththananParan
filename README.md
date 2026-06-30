@@ -27,22 +27,40 @@
 
 **Languages**
 <br/>
-<img src="https://skillicons.dev/icons?i=python,js,java,c,cpp,php,matlab"/>
+<img src="https://skillicons.dev/icons?i=python,js,ts,java,c,cpp,php,matlab"/>
 
 **Web Development**
 <br/>
-<img src="https://skillicons.dev/icons?i=react,nodejs,express,html,css,jsp"/>
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,html,css,jsp"/>
 <br/>
 <img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white"/>
 
+**Backend & API**
+<br/>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postman"/>
+<br/>
+RESTful API • API Integration • JSON APIs
+
 **Databases**
 <br/>
-<img src="https://skillicons.dev/icons?i=mysql,mongodb"/>
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
 <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
+<br/>
+SQL
+
+**Data & AI**
+<br/>
+<img src="https://skillicons.dev/icons?i=python"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+<img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+<br/>
+RAG • LLM • Prompt Engineering
 
 **Tools & Platforms**
 <br/>
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker"/>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker,vercel"/>
 
 </div>
 
