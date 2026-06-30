@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+real-world+projects+%F0%9F%9A%80;Learning+through+experimentation+%E2%9A%A1;AI+%2B+Data+Science+%2B+Full-Stack+Dev+%2B+Web3+%2B+DevOps+%F0%9F%92%BB" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=800&color=7AA2F7&center=true&vCenter=true&width=600&lines=Building+real-world+projects+%F0%9F%9A%80;Learning+through+experimentation+%E2%9A%A1;AI+%2B+Data+Science+%2B+Full-Stack+%2B+Web3+%2B+DevOps+%F0%9F%92%BB" />
 
 <br/>
 
