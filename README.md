@@ -39,24 +39,20 @@
 <br/>
 <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,postman"/>
 <br/>
-RESTful API • API Integration • JSON APIs
 
 **Databases**
 <br/>
 <img src="https://skillicons.dev/icons?i=mysql,mongodb,postgresql"/>
 <img src="https://img.shields.io/badge/Oracle%20DB-F80000?style=for-the-badge&logo=oracle&logoColor=white"/>
 <br/>
-SQL
 
 **Data & AI**
 <br/>
-<img src="https://skillicons.dev/icons?i=python"/>
 <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
 <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
 <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white"/>
 <img src="https://img.shields.io/badge/Seaborn-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
 <br/>
-RAG • LLM • Prompt Engineering
 
 **Tools & Platforms**
 <br/>
